@@ -16,5 +16,5 @@ Install my-project with npm
     
 ## Authors
 
-- [@octokatherine](https://www.github.com/octokatherine)
+- [@alteraether]([https://www.github.com/octokatherine](https://github.com/AlterAether))
 
