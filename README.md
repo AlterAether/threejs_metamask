@@ -1,4 +1,1 @@
-# THREE.JS landing page with integrated Metamask wallet
-
-## npm install
-### npm start
+[README.md](https://github.com/AlterAether/threejs_metamask/files/15368227/README.md)
