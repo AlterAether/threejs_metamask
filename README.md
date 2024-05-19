@@ -1,12 +1,10 @@
 
 # Deployment
 
-A brief description of what this project does and who it's for
+Here is a threejs build with Metaamask Wallet integrated.
 
 
 ## Installation
-
-Install my-project with npm
 
 ```bash
   npm install 
