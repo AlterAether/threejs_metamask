@@ -1,4 +1,4 @@
-THREE.JS landing page with integrated Metamask wallet
+# THREE.JS landing page with integrated Metamask wallet
 
-npm install
-npm start
+## npm install
+### npm start
